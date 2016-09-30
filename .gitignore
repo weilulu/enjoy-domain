@@ -1,0 +1,7 @@
+.classpath
+.gradle/2.2.1/taskArtifacts/fileHashes.bin
+.gradle/
+.project
+.settings/
+bin/
+build/
